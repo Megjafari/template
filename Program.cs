@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, meg! how are you?");
-            Console.WriteLine("im good");
+            Console.WriteLine("im good.thanks");
         }
     }
 }
