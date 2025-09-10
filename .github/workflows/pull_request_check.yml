@@ -42,4 +42,4 @@ jobs:
           curl -H "Content-Type: application/json" \
                -X POST \
                -d "{\"embeds\":[{\"title\":\"GitHub Action Build Result\",\"description\":\"$MESSAGE\",\"color\":$COLOR}]}" \
-               https://example.hook
+               https://discord.com/api/webhooks/1414125419610771466/Xkb9ADuwivDV3vwW0fl-pjpA_bSoq7GRFHfhTucFBAsoAx7TFNW7XPGArLLQESICpfvL
