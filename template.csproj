@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include=".github\" />
+    <None Include=".github\pull_request_template.md" />
   </ItemGroup>
 
 </Project>
